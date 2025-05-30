@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/453ca47b-7f52-42ab-9724-d203f0831875" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/453ca47b-7f52-42ab-9724-d203f0831875" width = "550" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>User Management</h1>
