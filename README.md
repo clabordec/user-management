@@ -21,7 +21,11 @@ This project outlines the management of user accounts via locked account, resett
 - Create a security group named `Clerks`
 - Assign `John Doe` to the `Clerks` security group
 
-<h2>Deployment and Configuration Steps</h2>
+
+<br />
+
+
+<h1>Actions and Observations</h1>
 
 ## Creating the user
 ### Within Azure create a virtual network, this vn with allow the Virtual Machiness to communicate within the same network
